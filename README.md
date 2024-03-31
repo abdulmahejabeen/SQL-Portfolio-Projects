@@ -1,3 +1,3 @@
-# SQL-Projects
+# SQL-Portfolio-Projects
 datacamp SQL portfolio projects
 
